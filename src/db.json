@@ -1,0 +1,8 @@
+{
+    "WeekTableData":[
+        ["Morning shift", "second", 3, 4, 5, 6, 7, 8],
+        ["Morning shift", 2, 3, 4, 5, 6, 7, 8],
+        ["Afternoon shift", 2, 3, 4, 5, 6, 7, 8],
+        ["Night shift", 2, 3, 4, 5, 6, 7, 8]
+    ]
+}
